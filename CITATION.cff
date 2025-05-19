@@ -16,14 +16,14 @@ authors:
 identifiers:
   - type: url
     value: >-
-      https://https://github.com/AndresUN1/Gemelos-Digitales-Sistema-de-Lotka-Volterra-Fernandez21212153
-    description: Practica 2 Sistema Presa-Depredador de Lotka-Volterra
+      https://github.com/AndresUN1/Gemelos-Digitales-Modelizado-Matematico-Fernandez-21212153
+    description: Practica 5 Analisis de sistemas biologicos
 abstract: |-
   Tecnologico Nacional de México 
     Instituto Tecnologico de Tijuana
     Ingeniería Biomédica 
     Gemelos Digitales
-    Práctica 2 Sistema Presa-Depredador de Lotka-Volterra
+    Práctica 5 Analisis de sistemas biologicos
 keywords:
   - Lotka-Volterra
   - HIV
