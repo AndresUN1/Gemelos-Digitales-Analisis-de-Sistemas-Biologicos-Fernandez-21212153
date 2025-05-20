@@ -23,4 +23,4 @@ Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléc
 ## Lecturas
 [1] Paul. A. Valle, Syllabus de Biomatemáticas para la asignatura de Gemelos Digitales, Tecnológico Nacional de México/IT Tijuana, Tijuana, B.C., México, 2025. Permalink: https://www.dropbox.com/s/6yf9afxzih9y458/Biomatematicas.pdf
 
-[2] Perelson, A.S., Ribeiro, R.M. Modeling the within-host dynamics of HIV infection. BMC Biol 11, 96 (2013). https://doi.org/10.1186/1741-7007-11-96
+[2] P. De Leenheer & D. Aeyels, "Stability properties of equilibria of classes of cooperative systems," IEEE Transactions on Automatic Control, vol. 46, no. 12, pp. 1996--2001, 2001, doi: https://doi.org/10.1109/9.975508.
